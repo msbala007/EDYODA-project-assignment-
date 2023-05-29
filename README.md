@@ -9,7 +9,7 @@
 
 4.Dependencies and Versions: The dependencies used in this application, such as React,tailwind css.
 
-5.Installation Steps: "yarn add https://github.com/msbala007/React-assignment-Auctopus-.git"
+5.Installation Steps: "yarn add https://github.com/msbala007/EDYODA-project-assignment-.git"
 
 6.Available Scripts: scripts for run the application " yarn dev "
 
